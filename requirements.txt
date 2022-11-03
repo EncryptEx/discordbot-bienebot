@@ -11,7 +11,7 @@ idna==2.10
 importlib-metadata==3.4.0
 mccabe==0.6.1
 multidict==4.7.6
-pipenv==2018.11.26
+pipenv==2022.1.8
 ply==3.11
 pycodestyle==2.6.0
 pyflakes==2.2.0
