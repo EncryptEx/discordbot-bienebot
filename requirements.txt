@@ -20,7 +20,7 @@ requests==2.25.1
 six==1.15.0
 stone==3.2.1
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.17
 virtualenv==16.7.7
 virtualenv-clone==0.5.3
 yarl==1.5.1
