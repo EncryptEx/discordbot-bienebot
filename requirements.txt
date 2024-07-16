@@ -25,3 +25,4 @@ virtualenv==16.7.7
 virtualenv-clone==0.5.3
 yarl==1.5.1
 zipp==3.4.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
