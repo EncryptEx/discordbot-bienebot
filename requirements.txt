@@ -1,4 +1,4 @@
-aiohttp==3.6.3
+aiohttp==3.13.3
 async-timeout==3.0.1
 attrs==20.3.0
 certifi==2019.9.11
@@ -20,7 +20,7 @@ requests==2.25.1
 six==1.15.0
 stone==3.2.1
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==2.6.3
 virtualenv==16.7.7
 virtualenv-clone==0.5.3
 yarl==1.5.1
